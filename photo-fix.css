@@ -1,0 +1,19 @@
+
+/* Only headline clipping, football feature contrast, and supplied photos. */
+.home-copy h1 .word-mask {
+  padding-left:.09em !important; margin-left:-.09em !important;
+  padding-right:.09em !important; margin-right:-.09em !important;
+}
+.home-copy h1 { overflow:visible !important; }
+.feature.photo-fix-football { isolation:isolate; }
+.feature.photo-fix-football img { filter:brightness(.38) !important; }
+.feature.photo-fix-football :is(h2,h3,p,span,small,strong,.eyebrow) {
+  color:#fff !important; -webkit-text-fill-color:#fff !important;
+  text-shadow:0 1px 3px #000 !important;
+}
+.feature.photo-fix-football > :not(img):not(picture) { z-index:3; }
+.page-photo img[data-photo-fix="football"] {
+  object-fit:cover !important; object-position:62% center !important;
+}
+.feature img[data-photo-fix="football"] { object-position:62% center; }
+.home-image { background-image:url('media/campus-user.png') !important; }

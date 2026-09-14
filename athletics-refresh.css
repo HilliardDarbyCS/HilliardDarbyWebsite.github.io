@@ -1,0 +1,28 @@
+
+body.athletics-refresh .content-layout { display:block !important; width:min(1440px,calc(100% - 48px)) !important; max-width:none !important; margin-inline:auto; }
+body.athletics-refresh #page-content { width:100% !important; max-width:none !important; min-width:0; }
+body.athletics-refresh .content-layout, body.athletics-refresh #page-content, body.athletics-refresh .related { height:auto !important; max-height:none !important; overflow:visible !important; position:static !important; }
+body.athletics-refresh .related { width:100% !important; margin-bottom:32px; }
+body.athletics-refresh .related nav { display:flex !important; flex-wrap:wrap; gap:12px 24px; }
+body.athletics-directory .related { display:none !important; }
+.official-sports-nav {display:flex;flex-wrap:wrap;gap:12px;margin:24px 0 40px;}
+.official-sports-nav a,.official-team-links a {display:inline-block;padding:12px 20px;border:1px solid #abc7dc;border-radius:24px;background:#fff;color:#173e59;text-decoration:none;font-weight:700;}
+.official-season {scroll-margin-top:100px;margin:50px 0;}
+.official-season h2 {font-size:clamp(2rem,4vw,4rem);margin-bottom:24px;}
+.official-sports-grid {display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px;}
+.official-sport-card {display:block;min-width:0;overflow:hidden;border-radius:10px;border:1px solid #d6e3ec;background:#fff;color:#142d3d;text-decoration:none;}
+.official-card-photo {aspect-ratio:5/4;overflow:hidden;background:#e9f2f8;display:grid;place-items:center;}
+.official-card-photo img {width:100%;height:100%;object-fit:contain;transition:transform .5s;}
+.official-sport-card:hover img {transform:scale(1.025);}
+.official-card-copy {padding:22px;}.official-card-copy h3 {font-size:1.45rem;color:#142d3d;margin:0 0 10px;}.official-card-copy p {color:#36576c;margin:0;}
+.official-no-photo {padding:24px;text-align:center;color:#234f70;font-weight:700;}
+.official-team-group {padding:24px 0;border-bottom:1px solid #d6e3ec;}.official-team-links {display:flex;flex-wrap:wrap;gap:12px;}
+.official-team-group h3 {margin-bottom:18px;}
+.official-gallery {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin:28px 0;}
+.official-gallery img {width:100%;height:auto;display:block;}
+body.athletics-refresh .page-photo img {object-fit:contain !important;transform:none !important;background:#e9f2f8;}
+.official-extra {margin:50px 0;}.official-extra summary {cursor:pointer;font-weight:700;padding:20px;background:#eef5fa;}
+@media(max-width:1000px){.official-sports-grid{grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media(max-width:600px){.official-sports-grid,.official-gallery{grid-template-columns:1fr;}body.athletics-refresh .content-layout{width:calc(100% - 32px) !important;}}
+@media(prefers-reduced-motion:reduce){.official-card-photo img{transition:none;}}
+html.motion-off .official-card-photo img {transition:none;}

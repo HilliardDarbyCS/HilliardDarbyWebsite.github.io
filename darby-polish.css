@@ -1,0 +1,12 @@
+/* Official logo only. Earlier site styles and animations remain in charge. */
+.brand { background:transparent !important; color:#142d3d !important; }
+.brand .official-darby-logo {
+  display:block; width:76px !important; height:54px !important;
+  max-width:none; object-fit:contain; background:#fff;
+  border:0; border-radius:0; filter:none !important; flex-shrink:0;
+}
+.brand:has(.official-darby-logo)::before,
+.brand:has(.official-darby-logo)::after { display:none !important; }
+@media(max-width:600px) {
+  .brand .official-darby-logo { width:60px !important; height:44px !important; }
+}

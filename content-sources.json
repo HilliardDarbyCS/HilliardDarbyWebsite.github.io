@@ -1,0 +1,541 @@
+{
+  "review_date": "September 14, 2026",
+  "pages": [
+    {
+      "file": "staff.html",
+      "title": "Our Staff",
+      "source": "https://www.hilliardschools.org/hs/darby/our-staff/",
+      "image": "images/staff.svg",
+      "image_brief": "Staff group photograph",
+      "layout": "people"
+    },
+    {
+      "file": "bell-schedule.html",
+      "title": "Bell Schedule",
+      "source": "https://www.hilliardschools.org/hs/darby/bell-schedule/",
+      "image": "images/bell-schedule.svg",
+      "image_brief": "Hallway between classes",
+      "layout": "schedule"
+    },
+    {
+      "file": "directions.html",
+      "title": "Location / Directions",
+      "source": "https://www.hilliardschools.org/hs/darby/location-directions/",
+      "image": "images/directions.svg",
+      "image_brief": "Darby front entrance",
+      "layout": "location"
+    },
+    {
+      "file": "contact.html",
+      "title": "Contact Us",
+      "source": "https://www.hilliardschools.org/hs/darby/contact-us/",
+      "image": "images/contact.svg",
+      "image_brief": "School reception area",
+      "layout": "contact"
+    },
+    {
+      "file": "military-families.html",
+      "title": "Military Family Resources",
+      "source": "https://www.hilliardschools.org/hs/darby/military-family-resources/",
+      "image": "images/military-families.svg",
+      "image_brief": "Military family welcome event",
+      "layout": "community"
+    },
+    {
+      "file": "school-profile.html",
+      "title": "School Profile",
+      "source": "https://www.hilliardschools.org/hs/wp-content/uploads/2026/08/HDB-District-Profiles-26-27-1.pdf",
+      "image": "images/school-profile.svg",
+      "image_brief": "Darby campus aerial",
+      "layout": "resource-page"
+    },
+    {
+      "file": "attendance-boundaries.html",
+      "title": "Attendance Boundaries",
+      "source": "https://www.hilliardschools.org/about/attendance-areas/",
+      "image": "images/attendance-boundaries.svg",
+      "image_brief": "Hilliard neighborhood aerial",
+      "layout": "resource-page"
+    },
+    {
+      "file": "who-to-contact.html",
+      "title": "Who to Contact",
+      "source": "https://www.hilliardschools.org/about/who-to-contact/",
+      "image": "images/who-to-contact.svg",
+      "image_brief": "School staff helping a family",
+      "layout": "resource-page"
+    },
+    {
+      "file": "enrollment.html",
+      "title": "New Student Registration",
+      "source": "https://www.hilliardschools.org/enroll/",
+      "image": "images/enrollment.svg",
+      "image_brief": "Students arriving at Darby",
+      "layout": "resource-page"
+    },
+    {
+      "file": "curriculum.html",
+      "title": "District Curriculum Information",
+      "source": "https://www.hilliardschools.org/departments/curriculum-instruction/",
+      "image": "images/curriculum.svg",
+      "image_brief": "Classroom collaboration",
+      "layout": "resource-page"
+    },
+    {
+      "file": "innovation-campus.html",
+      "title": "Innovation Campus",
+      "source": "https://www.hilliardschools.org/innovation/",
+      "image": "images/innovation-campus.svg",
+      "image_brief": "Hands-on classroom project",
+      "layout": "resource-page"
+    },
+    {
+      "file": "program-of-studies.html",
+      "title": "Program of Studies",
+      "source": "https://www.hilliardschools.org/departments/curriculum-instruction/program-information/",
+      "image": "images/program-of-studies.svg",
+      "image_brief": "Students planning courses",
+      "layout": "resource-page"
+    },
+    {
+      "file": "graduation-requirements.html",
+      "title": "Graduation Requirements",
+      "source": "https://education.ohio.gov/getattachment/Topics/Ohio-s-Graduation-Requirements/Graduation-Req-by-Cohort-Overview.pdf.aspx?lang=en-US",
+      "image": "images/graduation-requirements.svg",
+      "image_brief": "Darby graduation ceremony",
+      "layout": "resource-page"
+    },
+    {
+      "file": "college-credit-plus.html",
+      "title": "College Credit Plus",
+      "source": "https://www.hilliardschools.org/departments/curriculum-instruction/college-credit-plus/",
+      "image": "images/college-credit-plus.svg",
+      "image_brief": "Student working in a college classroom",
+      "layout": "resource-page"
+    },
+    {
+      "file": "tolles.html",
+      "title": "Tolles Career & Technical Center",
+      "source": "https://www.tollestech.com/",
+      "image": "images/tolles.svg",
+      "image_brief": "Career and technical learning",
+      "layout": "resource-page"
+    },
+    {
+      "file": "guidance.html",
+      "title": "Guidance",
+      "source": "https://www.hilliardschools.org/hs/darby/guidance/",
+      "image": "images/guidance.svg",
+      "image_brief": "Counselor meeting with students",
+      "layout": "people"
+    },
+    {
+      "file": "band.html",
+      "title": "Band",
+      "source": "https://www.hilliardschools.org/fine-arts/darby/band/",
+      "image": "images/band.svg",
+      "image_brief": "Marching band at a Darby game",
+      "layout": "band"
+    },
+    {
+      "file": "choir.html",
+      "title": "Choir",
+      "source": "https://www.hilliardschools.org/fine-arts/darby/choir/",
+      "image": "images/choir.svg",
+      "image_brief": "Darby choir in performance",
+      "layout": "choir"
+    },
+    {
+      "file": "orchestra.html",
+      "title": "Orchestra",
+      "source": "https://www.hilliardschools.org/fine-arts/darby/orchestra/",
+      "image": "images/orchestra.svg",
+      "image_brief": "String players rehearsing",
+      "layout": "orchestra"
+    },
+    {
+      "file": "theater.html",
+      "title": "Theater",
+      "source": "https://www.hilliardschools.org/fine-arts/darby/darby-theater/",
+      "image": "images/theater.svg",
+      "image_brief": "Darby theater production",
+      "layout": "theater"
+    },
+    {
+      "file": "visual-arts.html",
+      "title": "Visual Arts",
+      "source": "https://www.hilliardschools.org/fine-arts/darby/visual-arts/",
+      "image": "images/visual-arts.svg",
+      "image_brief": "Student artwork exhibition",
+      "layout": "gallery"
+    },
+    {
+      "file": "schoolinks-news.html",
+      "title": "Plan Your Next Step with SchooLinks",
+      "source": "https://www.hilliardschools.org/hs/help-your-student-plan-whats-next-schoolinks-career-connected-learning/",
+      "image": "images/schoolinks-news.svg",
+      "image_brief": "Plan Your Next Step with SchooLinks editorial image",
+      "layout": "story"
+    },
+    {
+      "file": "class-of-2030.html",
+      "title": "Welcome, Class of 2030",
+      "source": "https://www.hilliardschools.org/hs/darby-posts/welcome-darby-class-of-2030/",
+      "image": "images/class-of-2030.svg",
+      "image_brief": "Welcome, Class of 2030 editorial image",
+      "layout": "story"
+    },
+    {
+      "file": "meal-benefits.html",
+      "title": "Meal Benefits for 2026–27",
+      "source": "https://www.hilliardschools.org/hs/2026-2027-free-reduced-lunch-benefit-info/",
+      "image": "images/meal-benefits.svg",
+      "image_brief": "Meal Benefits for 2026–27 editorial image",
+      "layout": "story"
+    },
+    {
+      "file": "meal-prices.html",
+      "title": "School Meal Price Update",
+      "source": "https://www.hilliardschools.org/hs/darby-posts/school-meal-price-adjustment-for-2026-2027/",
+      "image": "images/meal-prices.svg",
+      "image_brief": "School Meal Price Update editorial image",
+      "layout": "story"
+    },
+    {
+      "file": "graduation-2026.html",
+      "title": "Celebrating the Class of 2026",
+      "source": "https://www.hilliardschools.org/hs/darby-posts/celebrate-the-class-of-2026-watch-graduation-live/",
+      "image": "images/graduation-2026.svg",
+      "image_brief": "Celebrating the Class of 2026 editorial image",
+      "layout": "story"
+    },
+    {
+      "file": "calendar.html",
+      "title": "Activity Calendar",
+      "source": "https://www.hilliardschools.org/hs/darby/activity-calendar/",
+      "image": "images/calendar.svg",
+      "image_brief": "School community event",
+      "layout": "resource-page"
+    },
+    {
+      "file": "facilities.html",
+      "title": "Building Use / Facilities Rental",
+      "source": "https://www.hilliardschools.org/facilities/",
+      "image": "images/facilities.svg",
+      "image_brief": "Auditorium or school meeting space",
+      "layout": "resource-page"
+    },
+    {
+      "file": "school-flyers.html",
+      "title": "School Flyers",
+      "source": "https://www.hilliardschools.org/flyers/?building=HDB",
+      "image": "images/school-flyers.svg",
+      "image_brief": "Community bulletin board",
+      "layout": "resource-page"
+    },
+    {
+      "file": "enews.html",
+      "title": "Sign Up for eNews",
+      "source": "https://www.hilliardschools.org/enews/",
+      "image": "images/enews.svg",
+      "image_brief": "Darby school community",
+      "layout": "resource-page"
+    },
+    {
+      "file": "records.html",
+      "title": "Records / Transcript Requests",
+      "source": "https://www.hilliardschools.org/public-records-request/",
+      "image": "images/records.svg",
+      "image_brief": "School records office",
+      "layout": "resource-page"
+    },
+    {
+      "file": "announcements.html",
+      "title": "Announcements",
+      "source": "https://www.hilliardschools.org/hs/darby/announcements/",
+      "image": "images/announcements.svg",
+      "image_brief": "Students in a school hallway",
+      "layout": "announcements"
+    },
+    {
+      "file": "parents.html",
+      "title": "Parent Information",
+      "source": "https://www.hilliardschools.org/hs/darby/parent-info/",
+      "image": "images/parents.svg",
+      "image_brief": "Families at a school event",
+      "layout": "directory"
+    },
+    {
+      "file": "students.html",
+      "title": "Student Information",
+      "source": "https://www.hilliardschools.org/hs/darby/student-info/",
+      "image": "images/students.svg",
+      "image_brief": "Students working together",
+      "layout": "directory"
+    },
+    {
+      "file": "academic-clubs.html",
+      "title": "Academic Clubs",
+      "source": "",
+      "image": "images/academic-clubs.svg",
+      "image_brief": "Academic club project",
+      "layout": "clubs"
+    },
+    {
+      "file": "athletics-boys-cross-country.html",
+      "title": "Boys Cross Country",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-boys-cross-country.svg",
+      "image_brief": "Darby Boys Cross Country action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-boys-golf.html",
+      "title": "Boys Golf",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-boys-golf.svg",
+      "image_brief": "Darby Boys Golf action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-boys-soccer.html",
+      "title": "Boys Soccer",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-boys-soccer.svg",
+      "image_brief": "Darby Boys Soccer action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-cheerleading.html",
+      "title": "Cheerleading",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-cheerleading.svg",
+      "image_brief": "Darby Cheerleading action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-football.html",
+      "title": "Football",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-football.svg",
+      "image_brief": "Darby Football action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-girls-cross-country.html",
+      "title": "Girls Cross Country",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-girls-cross-country.svg",
+      "image_brief": "Darby Girls Cross Country action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-girls-golf.html",
+      "title": "Girls Golf",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-girls-golf.svg",
+      "image_brief": "Darby Girls Golf action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-girls-soccer.html",
+      "title": "Girls Soccer",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-girls-soccer.svg",
+      "image_brief": "Darby Girls Soccer action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-girls-tennis.html",
+      "title": "Girls Tennis",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-girls-tennis.svg",
+      "image_brief": "Darby Girls Tennis action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-girls-volleyball.html",
+      "title": "Girls Volleyball",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-girls-volleyball.svg",
+      "image_brief": "Darby Girls Volleyball action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-basketball-cheer.html",
+      "title": "Basketball Cheer",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-basketball-cheer.svg",
+      "image_brief": "Darby Basketball Cheer action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-bowling.html",
+      "title": "Bowling",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-bowling.svg",
+      "image_brief": "Darby Bowling action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-boys-basketball.html",
+      "title": "Boys Basketball",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-boys-basketball.svg",
+      "image_brief": "Darby Boys Basketball action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-competition-cheer.html",
+      "title": "Competition Cheer",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-competition-cheer.svg",
+      "image_brief": "Darby Competition Cheer action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-girls-basketball.html",
+      "title": "Girls Basketball",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-girls-basketball.svg",
+      "image_brief": "Darby Girls Basketball action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-gymnastics.html",
+      "title": "Gymnastics",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-gymnastics.svg",
+      "image_brief": "Darby Gymnastics action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-swimming.html",
+      "title": "Swimming",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-swimming.svg",
+      "image_brief": "Darby Swimming action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-wrestling.html",
+      "title": "Wrestling",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-wrestling.svg",
+      "image_brief": "Darby Wrestling action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-baseball.html",
+      "title": "Baseball",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-baseball.svg",
+      "image_brief": "Darby Baseball action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-boys-lacrosse.html",
+      "title": "Boys Lacrosse",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-boys-lacrosse.svg",
+      "image_brief": "Darby Boys Lacrosse action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-boys-tennis.html",
+      "title": "Boys Tennis",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-boys-tennis.svg",
+      "image_brief": "Darby Boys Tennis action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-boys-track.html",
+      "title": "Boys Track",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-boys-track.svg",
+      "image_brief": "Darby Boys Track action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-boys-volleyball.html",
+      "title": "Boys Volleyball",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-boys-volleyball.svg",
+      "image_brief": "Darby Boys Volleyball action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-girls-lacrosse.html",
+      "title": "Girls Lacrosse",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-girls-lacrosse.svg",
+      "image_brief": "Darby Girls Lacrosse action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-girls-track.html",
+      "title": "Girls Track",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-girls-track.svg",
+      "image_brief": "Darby Girls Track action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics-softball.html",
+      "title": "Softball",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics-softball.svg",
+      "image_brief": "Darby Softball action photograph",
+      "layout": "sport"
+    },
+    {
+      "file": "athletics.html",
+      "title": "Panther Athletics",
+      "source": "https://www.hilliardschools.org/panther-athletics/",
+      "image": "images/athletics.svg",
+      "image_brief": "Friday night at Darby stadium",
+      "layout": "athletics"
+    },
+    {
+      "file": "about.html",
+      "title": "This Is Darby.",
+      "source": "https://www.hilliardschools.org/hs/darby/",
+      "image": "images/about.svg",
+      "image_brief": "Hilliard Darby campus panorama",
+      "layout": "about"
+    },
+    {
+      "file": "academics.html",
+      "title": "Your Next Chapter.",
+      "source": "https://www.hilliardschools.org/hs/darby/",
+      "image": "images/academics.svg",
+      "image_brief": "Students learning in a Darby classroom",
+      "layout": "academics"
+    },
+    {
+      "file": "fine-arts.html",
+      "title": "Make Your Mark.",
+      "source": "https://www.hilliardschools.org/fine-arts/darby/",
+      "image": "images/fine-arts.svg",
+      "image_brief": "Darby arts performance or exhibition",
+      "layout": "arts"
+    },
+    {
+      "file": "news.html",
+      "title": "Around Darby.",
+      "source": "https://www.hilliardschools.org/hs/darby/news/",
+      "image": "images/news.svg",
+      "image_brief": "Darby community news photograph",
+      "layout": "news"
+    },
+    {
+      "file": "directory.html",
+      "title": "Find It at Darby.",
+      "source": "",
+      "image": "images/directory.svg",
+      "image_brief": "Darby campus wayfinding",
+      "layout": "directory"
+    }
+  ]
+}

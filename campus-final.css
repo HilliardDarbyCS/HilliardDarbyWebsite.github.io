@@ -1,0 +1,11 @@
+
+/* Replace only the homepage placeholder image layer. */
+.home-hero .home-image {
+  background-image:url("media/darby-campus-final.png") !important;
+  background-size:cover !important;
+  background-position:center center !important;
+  opacity:1 !important;
+}
+.home-hero .home-image img {
+  object-fit:cover !important; object-position:center center !important;
+}

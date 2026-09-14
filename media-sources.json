@@ -1,0 +1,74 @@
+{
+  "football": {
+    "src": "https://darbyfootball.weebly.com/uploads/6/0/8/2/6082285/2023-team-photo_orig.jpg",
+    "alt": "Hilliard Darby football team, 2023",
+    "caption": "Darby Football \u00b7 2023 team archive",
+    "source": "https://darbyfootball.weebly.com/2023.html"
+  },
+  "campus": {
+    "src": "https://imagescdn.homes.com/i2/CBq6KmqG-O0oO-SYsAmGSJ_eQy3UxHRL1Lj7mMiRLOM/117/hilliard-darby-high-school-hilliard-oh-4-schoolphoto.jpg?p=1",
+    "alt": "Aerial view of Hilliard Darby High School",
+    "caption": "Hilliard Darby High School \u00b7 Campus",
+    "source": "https://www.homes.com/school/hilliard-oh/hilliard-darby-high-school/nww91nks5lclp/"
+  },
+  "academics": {
+    "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Learning and study",
+    "caption": "Illustrative photograph \u00b7 Learning and study"
+  },
+  "library": {
+    "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Library bookshelves",
+    "caption": "Illustrative photograph \u00b7 Library bookshelves"
+  },
+  "science": {
+    "src": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Scientific research",
+    "caption": "Illustrative photograph \u00b7 Scientific research"
+  },
+  "technology": {
+    "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Electronic circuitry",
+    "caption": "Illustrative photograph \u00b7 Electronic circuitry"
+  },
+  "arts": {
+    "src": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Art materials",
+    "caption": "Illustrative photograph \u00b7 Art materials"
+  },
+  "music": {
+    "src": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Music studio",
+    "caption": "Illustrative photograph \u00b7 Music studio"
+  },
+  "theater": {
+    "src": "https://images.unsplash.com/photo-1503095396549-807759245b35?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Theater performance",
+    "caption": "Illustrative photograph \u00b7 Theater performance"
+  },
+  "basketball": {
+    "src": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Basketball court",
+    "caption": "Illustrative photograph \u00b7 Basketball court"
+  },
+  "soccer": {
+    "src": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Soccer",
+    "caption": "Illustrative photograph \u00b7 Soccer"
+  },
+  "swimming": {
+    "src": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Swimming pool",
+    "caption": "Illustrative photograph \u00b7 Swimming pool"
+  },
+  "tennis": {
+    "src": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Tennis court",
+    "caption": "Illustrative photograph \u00b7 Tennis court"
+  },
+  "running": {
+    "src": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=1800&q=85",
+    "alt": "Running",
+    "caption": "Illustrative photograph \u00b7 Running"
+  }
+}
